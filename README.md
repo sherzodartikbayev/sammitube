@@ -1,8 +1,41 @@
-# React + Vite
+# SammiTube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SammiTube - is YoutTube clone web-site using built React JS and Material UI.
 
-Currently, two official plugins are available:
+# 🚀 Live Demo
+Check out the live demo: [SammiTube](https://sammitube-five.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🚀 Technologies Used
+- **React**
+- **React Router Dom**
+- **Material UI**
+
+# 🛠 Installation
+```bash
+# Clone the repository
+git clone https://github.com/sherzodartikbayev/sammitube.git
+```
+
+# 📬 Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- GitHub: [sherzodartikbayev](https://github.com/sherzodartikbayev)
+- Email: sherzadartikbayev@gmail.com
+- Telegram: [sherzod_artikbayev](https://t.me/sherzod_artikbayev)
+- LinkedIn: [Sherzod Artikbayev](https://www.linkedin.com/in/sherzod3105/)
+
+```bash
+# Navigate to the project directory
+cd sammitube
+```
+
+```bash
+# Install dependencies
+npm install 
+```
+
+```bash
+# Start the development server
+npm run dev 
+```
+
