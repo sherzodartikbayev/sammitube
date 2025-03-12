@@ -16,14 +16,6 @@ Check out the live demo: [SammiTube](https://sammitube-five.vercel.app/)
 git clone https://github.com/sherzodartikbayev/sammitube.git
 ```
 
-# 📬 Contact
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: [sherzodartikbayev](https://github.com/sherzodartikbayev)
-- Email: sherzadartikbayev@gmail.com
-- Telegram: [sherzod_artikbayev](https://t.me/sherzod_artikbayev)
-- LinkedIn: [Sherzod Artikbayev](https://www.linkedin.com/in/sherzod3105/)
-
 ```bash
 # Navigate to the project directory
 cd sammitube
@@ -39,3 +31,10 @@ npm install
 npm run dev 
 ```
 
+# 📬 Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- GitHub: [sherzodartikbayev](https://github.com/sherzodartikbayev)
+- Email: sherzadartikbayev@gmail.com
+- Telegram: [sherzod_artikbayev](https://t.me/sherzod_artikbayev)
+- LinkedIn: [Sherzod Artikbayev](https://www.linkedin.com/in/sherzod3105/)
